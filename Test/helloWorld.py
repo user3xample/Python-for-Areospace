@@ -2,4 +2,4 @@
 
 # Hello world to test pc is set up right and files going to and from GIT right.
 
-print ("Hello world Yahoo it worked!")
+print("Hello world Yahoo it worked!")
